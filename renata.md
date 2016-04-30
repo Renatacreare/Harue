@@ -5,3 +5,6 @@ O arquivo deve ser adicionado no repositório
 Possibilidade de checkin local (na máquina)
 
 Git status para identificar a edição do arquivo
+
+klajsdkfj
+lkcjfaksdjflkçsajdfklsjlkçdf
