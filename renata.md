@@ -6,5 +6,4 @@ Possibilidade de checkin local (na máquina)
 
 Git status para identificar a edição do arquivo
 
-klajsdkfj
-lkcjfaksdjflkçsajdfklsjlkçdf
+teste no arquivo renata
